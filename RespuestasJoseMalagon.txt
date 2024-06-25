@@ -1,0 +1,7 @@
+3A. Una de las ventajas del uso de gitflow es que ayuda a mantener un codigo limpio, y organizado, ya que al tener ramas separadas podes
+hacer funciones, correción de errores, lanzamientos, entre otras
+
+3B. Nos brindan demasiadas ventajas, ya que se pueden solucionar conflictos de maneras dinamicas, también es bastante
+claro y legible para todos los cambios que hacen los diferentes colaboradores
+
+3C. Por ahora el mayor desafio es aprenderse todos los diferentes codigos y sintaxis que toca hacer para darle uso a las diferentes funciones de GITHUB
